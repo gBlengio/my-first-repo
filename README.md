@@ -3,4 +3,4 @@
 
 No. de lineas: 17
 
-touch `date +"%Y.%m.%d.md"`
+date: '`r paste("First created on Oct 01, 2018. Updated on", Sys.Date())`'
