@@ -1,1 +1,3 @@
-My name is Thomas Tuesday, 15 December, 11:25 CET
+Project Guessing Game
+Name: Guillermo Blengio Date: martes, 15 de diciembre 04:41 GMT-6
+No. Lineas: 17

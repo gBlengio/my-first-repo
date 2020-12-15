@@ -16,7 +16,7 @@ let DATA = {
     hour: 'numeric',
     minute: 'numeric',
     timeZoneName: 'short',
-    timeZone: 'Mexico/Mexico',
+    timeZone: 'America/Mexico_City',
   }),
 };
 /**
